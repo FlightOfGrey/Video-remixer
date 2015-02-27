@@ -1,10 +1,6 @@
 Video-remixer
 =============
 
-A python script that takes in individual frames and returns a remixed abstracted version.
+A python script that takes in individual frames and returns a remixed abstracted version using pyprocessing.
 
-Video results can be found here:
-https://www.youtube.com/watch?v=zy5YyRQryYc
-https://www.youtube.com/watch?v=Bnqn_RU3Ssg
-
-A comparison video comparing the original vs the remixed: https://www.youtube.com/watch?v=p4ztppqwdI0
+For more information about the script and to see the results it produces check here: http://flightofdesign.com/portfolio/the-naked-and-famous.html
